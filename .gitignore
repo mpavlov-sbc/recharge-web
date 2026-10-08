@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+.idea/
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+
+# These belong only in the separate private app repository.
+/mobile/
+/backend/
+/Recharge_App_Full_Concept_RU.pdf
